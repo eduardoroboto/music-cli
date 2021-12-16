@@ -1,0 +1,10 @@
+#+TITLE: Music-Cli
+#+AUTHOR: Eduardo B.N
+#+EMAIL: eduardobarroso@edu.unifor.br
+
+
+Just a simple Python program that interacts with this API [[https://github.com/eduardoroboto/music-rest][Music-Rest]].
+
+
+** Dependencies
+    [[https://docs.python-requests.org/en/master/index.html][Requests: HTTP for Humans™]]
